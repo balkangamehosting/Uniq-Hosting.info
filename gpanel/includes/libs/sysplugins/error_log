@@ -1,0 +1,1 @@
+[10-Feb-2014 21:58:29 Europe/Berlin] PHP Fatal error:  Class 'Smarty_Internal_CompileBase' not found in /home/gpanelar/public_html/includes/libs/sysplugins/smarty_internal_compile_call.php on line 16
